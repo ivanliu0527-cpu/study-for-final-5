@@ -16,7 +16,7 @@ with st.sidebar:
 
 if selected == "Home":
   st.title(f"Welcome to the {selected} page.")
-if selected == "About"
+if selected == "About":
   st.title(f"Welcome to the {selected} page.")
-if selected == "Contact"
+if selected == "Contact":
   st.title(f"Welcome to the {selected} page.")
