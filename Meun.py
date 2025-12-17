@@ -12,7 +12,7 @@ with st.sidebar:
                  "2-circle-fill",
                  "3-circle-fill"],
         menu_icon= "emoji-smile-fill",
-        default_index = 1,
+        default_index = 2,
     )
 
 if selected == "Home":
