@@ -1,5 +1,5 @@
 import streamlit as st 
-from streamlit_option_meun import option_meun
+from streamlit_option_menu import option_menu
 
 st.title("Hello student")
 st.write("This is your Python Programming course")
